@@ -1,4 +1,4 @@
-# crossword-using-Assembly-Language-MASM-syntax
+# crossword-game-using-Assembly-Language-MASM-syntax
 
 # Description:
 
@@ -19,8 +19,3 @@ lives will be decrement by 1. and complete all word to enter next level.
    increase else your lives will be decrement by 1.
 5) Your word can be horizontal, vertical, diagonal in the maze.
 
-
-
-# Game May Look Like this:
-Lives:00               Score:00                            
- 
