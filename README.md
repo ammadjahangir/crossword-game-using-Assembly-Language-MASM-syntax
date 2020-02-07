@@ -1,6 +1,5 @@
 # crossword-using-Assembly-Language-MASM-syntax
-## Game Name:  
-## Cross Word
+
 # Description:
 
 When you run the program menu display on console,
@@ -23,5 +22,5 @@ lives will be decrement by 1. and complete all word to enter next level.
 
 
 # Game May Look Like this:
-Lives:00              Score:00                            
+Lives:00               Score:00                            
  
